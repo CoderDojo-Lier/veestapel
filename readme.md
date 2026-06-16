@@ -26,6 +26,7 @@ The regular [Scratch editor](https://scratch.mit.edu) has no built-in physics en
 - General:
   - **r**: restart game
   - **c**: switch between realistic and cartoon-style animals
+  - **n**: switch to next animal costume (for testing)
 
 To adapt the controls, change the code in the *engine* sprite (steering), *grabber* sprite (dropping), and *stage* (restart).
 
